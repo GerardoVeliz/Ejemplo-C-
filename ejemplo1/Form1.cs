@@ -16,5 +16,10 @@ namespace ejemplo1
         {
             InitializeComponent();
         }
+        //hola
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
